@@ -14,3 +14,5 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+
+https://vercel.com/ryzzer0s-projects/threejs-3-d-text
