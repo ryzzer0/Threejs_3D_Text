@@ -36,7 +36,7 @@ fontLoader.load(
     '/fonts/helvetiker_regular.typeface.json',
     (font) => {
         const textGeometry = new TextGeometry(
-            'ryzzer',
+            'Muneeb Ahmed',
             {
                 font: font,
                 size: 0.5,
