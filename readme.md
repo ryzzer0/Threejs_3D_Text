@@ -15,4 +15,4 @@ npm run dev
 npm run build
 ```
 
-https://vercel.com/ryzzer0s-projects/threejs-3-d-text
+[https://vercel.com/ryzzer0s-projects/threejs-3-d-text](https://threejs-3-d-text-two.vercel.app/)
